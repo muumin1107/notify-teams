@@ -1,1 +1,1 @@
-# notify-teams
+# Teamsサブスクライバー
